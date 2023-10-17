@@ -7,7 +7,7 @@ UPDATED UP TO 17/10/
 
 ------HOW TO USE-----
 
-- alright so literally extract it to your desktop and Open ''Loader'' and find the version of the loader thats most recently up to date
+- alright so literally extract it to your desktop and Open ''Loader'' folder and find the version of the loader thats most recently up to date
 - Depending on your game it will give you  a list of the games available on the FREE edition of this loader and if it has
 - (D) = detected
 - (FUD) = fully undetected (no harm to use)

@@ -3,7 +3,7 @@
 So this Loader is a verified Cheat, As this is the free version we only offer cheats for:
 CS2Loader RobloxEXECUTOR Rs6Loader FortniteLoader WarthunderCHEAT ValorantMENU And A GTAV Menu!
 
-UPDATED UP TO 17/10/
+UPDATED UP TO 18/10/23
 
 ------HOW TO USE-----
 
